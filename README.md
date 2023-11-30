@@ -1,6 +1,6 @@
 
 
-# Shopping Cart
+<em> Shopping Cart</em>
 
 This project is a versatile shopping cart system designed to sell a wide range of products. Currently, the system allows for the printing of purchase records, with ongoing efforts to enhance it for real online purchases.
 
