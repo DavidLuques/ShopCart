@@ -24,8 +24,7 @@ This project is a versatile shopping cart system designed to sell a wide range o
 ![first](https://github.com/DavidLuques/ShopCart/blob/main/2023-11-30%2010_59_10-Shopping%20cart%20-%20Brave.png)
 
 `THE CART `
-![second](https://github.com/DavidLuques/ShopCart/blob/main/2023-11-30%2010_59_10-Shopping%20cart%20-%20Brave.png)
-
+![seond](https://github.com/DavidLuques/ShopCart/blob/main/2023-11-30%2010_58_59-Shopping%20cart%20-%20Brave.png)
 `NOW PRINTING...`
 ![third](https://github.com/DavidLuques/ShopCart/blob/main/2023-11-30%2010_59_33-Shopping%20cart%20-%20Brave.png)
 
