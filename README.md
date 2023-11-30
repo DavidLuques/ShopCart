@@ -19,13 +19,13 @@ This project is a versatile shopping cart system designed to sell a wide range o
 - Agile Scrum methodology
 
 
-MAIN PAGE
+`MAIN PAGE`
 
 ![first](https://github.com/DavidLuques/ShopCart/blob/main/2023-11-30%2010_59_10-Shopping%20cart%20-%20Brave.png)
 
-THE CART 
+`THE CART `
 ![second](https://github.com/DavidLuques/ShopCart/blob/main/2023-11-30%2010_59_10-Shopping%20cart%20-%20Brave.png)
 
-NOW PRINTING...
+`NOW PRINTING...`
 ![third](https://github.com/DavidLuques/ShopCart/blob/main/2023-11-30%2010_59_33-Shopping%20cart%20-%20Brave.png)
 
