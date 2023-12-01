@@ -19,7 +19,7 @@ This project is a versatile shopping cart system designed to sell a wide range o
 - Agile Scrum methodology
 
 
-  ##take a look! :
+  ## take a look! :
    https://app.netlify.com/sites/dreamy-pithivier-8ff0eb/configuration/deploys
 
 
